@@ -1,0 +1,45 @@
+html,
+body,
+#page,
+.column {
+    height: 100%;
+}
+
+#page {
+    margin: 0px;
+    width: 100%;
+}
+
+#col-1 {
+    background-color: silver;
+}
+
+#col-2 {
+    background-color: black;
+    color: white;
+}
+
+#col-3 {
+    background-color: silver;
+}
+
+.text {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#title {
+    font-family: Quicksand, sans-serif;
+    margin-top: 80px;
+    font-size: 80px;
+}
+
+p {
+    font-size: 70px;
+}
+
+#icon-image {
+    margin-top: 30px;
+    height: 150px;
+    width: 150px;
+}
